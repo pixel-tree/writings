@@ -8,7 +8,6 @@
 > (Goodfellow, Bengio & Courville, 2016, p. 156)
 
 ![tanh(Wx + b)](../media/tanh.png)
-
 ###### **Figure 1:** A visualisation of the neural network layer *tanh(Wx + b)* as a continuous transformation (reproduced from Olah, 2014): a linear transformation by the weight matrix; a translation by the bias vector; and pointwise application of tanh (activation function).
 
 ### The Stars Down to Earth
@@ -116,6 +115,6 @@ Vinyals, O., Babuschkin, I., Czarnecki, W., Mathieu, M., Dudzik, A., & Chung, J.
 
 Walker, K. (2020). Learning from Machines: Conversations with Artists about Machine Learning. Retrieved 18 February 2020, from https://medium.com/@Kevin7_62820/learning-from-machines-conversations-with-artists-about-machine-learning-7db6b34d038c
 
-###### I have to say: I have only recently begun my adventures in the field of deep learning, so please get in touch should you notice something factually inaccurate, if you have differing views on the subject, or otherwise wish to chat.
+###### *I have to say: I have only recently begun my adventures in the field of deep learning, so please get in touch should you notice something factually inaccurate, if you have differing views on the subject, or otherwise wish to chat.*
 
-###### URL to article: https://medium.com/@erik.lintunen/elusive-deep-learning-5cd209a1c278
+###### *URL to article: https://medium.com/@erik.lintunen/elusive-deep-learning-5cd209a1c278*
