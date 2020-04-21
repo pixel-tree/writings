@@ -1,4 +1,4 @@
-![Neural GIF](media/neural.gif)
+![Neural GIF](../media/neural.gif)
 
 # Elusive Deep Learning: A Narrative Approach
 
@@ -7,12 +7,13 @@
 > A manifold is a connected region. Mathematically, it is a set of points associated with a neighborhood around each point. […] In everyday life, we experience the surface of the world as a 2-D plane, but it is in fact a spherical manifold in 3-D space. The concept of a neighborhood surrounding each point implies the existence of transformations that can be applied to move on the manifold from one position to a neighboring one. In the example of the world’s surface as a manifold, one can walk north, south, east, or west.
 > (Goodfellow, Bengio & Courville, 2016, p. 156)
 
-![tanh(Wx + b)](media/tanh.png)
-###### *Figure 1:* A visualisation of the neural network layer tanh(Wx + b) as a continuous transformation (reproduced from Olah, 2014): a linear transformation by the weight matrix; a translation by the bias vector; and pointwise application of tanh (activation function).
+![tanh(Wx + b)](../media/tanh.png)
+
+###### **Figure 1:** A visualisation of the neural network layer *tanh(Wx + b)* as a continuous transformation (reproduced from Olah, 2014): a linear transformation by the weight matrix; a translation by the bias vector; and pointwise application of tanh (activation function).
 
 ### The Stars Down to Earth
 
-In his book **The Stars Down to Earth** the late philosopher Adorno (1957/1994) writes about the pseudo-rationality of astrological forecasting and the ‘abstract authority’ of reasoning based on the ‘abstract, unapproachable and anonymous’. James (2015, para. 9, in the essay **Cloudy Logic**, draws an analogy between this logic and the phenomenon of big data, paraphrasing Adorno: ‘astrology rearticulates unfashionable superstitions in the occult, in mysticism, and so on, by presenting them in empirical rather than supernatural terms — star charts and tables, for example’. Mackenzie (2017) on the other hand identifies a connection between the transformation of knowledge by ‘machine learners’, mediated by computational and mathematical operations such as vectorisation, and the theoretical legacy of Foucault: the inherent perplexity of knowledge representation practices and power. This essay explores representation learning and the construction of artificial neural networks from a philosophical perspective; and the research questions underlying this work are concerned with the material-semiotic instrumentation through which deep learning systems operate. In other words: what are the key narratives in the field, how are they implemented, and what are the epistemological implications of their application to data practices?
+In his book *The Stars Down to Earth* the late philosopher Adorno (1957/1994) writes about the pseudo-rationality of astrological forecasting and the ‘abstract authority’ of reasoning based on the ‘abstract, unapproachable and anonymous’. James (2015, para. 9, in the essay *Cloudy Logic*, draws an analogy between this logic and the phenomenon of big data, paraphrasing Adorno: ‘astrology rearticulates unfashionable superstitions in the occult, in mysticism, and so on, by presenting them in empirical rather than supernatural terms — star charts and tables, for example’. Mackenzie (2017) on the other hand identifies a connection between the transformation of knowledge by ‘machine learners’, mediated by computational and mathematical operations such as vectorisation, and the theoretical legacy of Foucault: the inherent perplexity of knowledge representation practices and power. This essay explores representation learning and the construction of artificial neural networks from a philosophical perspective; and the research questions underlying this work are concerned with the material-semiotic instrumentation through which deep learning systems operate. In other words: what are the key narratives in the field, how are they implemented, and what are the epistemological implications of their application to data practices?
 
 These ideas are as relevant as ever: the perception and understanding of our environments and interactions with them ‘is increasingly mediated by algorithms’ and, alas, modifying our social and political organisation (Mittelstadt, Allo, Taddeo, Wachter & Floridi, 2016). Floridi (2015) argues that the distinction between reality and virtuality is blurred; the two concepts confluence to form a new paradigm of (hyper)connectivity: the ‘Onlife experience’. Mittelstadt et al. (2016, p. 5) identify epistemic concerns in a world constituted by opaque algorithmic activities that ‘reontologise the world by understanding it in new, unexpected ways, and triggering and motivating actions based on the insight it generates’, and postulate that ‘actions taken on the basis of inductive correlations have real impact on human interests independent of their validity’ alluding to decision-making exclusive of evidence to support genuine causal connections.
 
@@ -34,9 +35,9 @@ There is a relationship between these research questions and the generality of m
 
 ### The Significance of Storytelling
 
-There are interesting overlaps to explore further between algorithms and narrative theory, between representation and knowledge production, as well as between the act of classification and the ways in which we make sense of the world. The threads that interweave these complex subject matters have been presented here on a speculative level, as they demand much more attention and detail than the scope of this essay allows for; but nevertheless, it has been interesting to highlight some examples. As a starting point for future research I will briefly return to the beginning and expand on **Manifolds and Topology.**
+There are interesting overlaps to explore further between algorithms and narrative theory, between representation and knowledge production, as well as between the act of classification and the ways in which we make sense of the world. The threads that interweave these complex subject matters have been presented here on a speculative level, as they demand much more attention and detail than the scope of this essay allows for; but nevertheless, it has been interesting to highlight some examples. As a starting point for future research I will briefly return to the beginning and expand on *Manifolds and Topology.*
 
-Figure 1 represents the three stages of metamorphosis when data are passed through a neural network layer: a computation of linear transformations followed by a non-linear transformation. The images have been reproduced from a GIF found in **Colah’s Blog**, a collection of online articles in which Olah (e.g. 2014) approaches the mysteries of deep learning networks from various, though mainly visual perspectives, by devising novel methods. There is an important connection between this, and the world-surface-as-manifold analogy introduced by Goodfellow et al. (2016): the process of learning a representation consists of a set of actions following predetermined mathematical principles. The learning in machine learning ‘has few cognitive or symbolic underpinnings’ and is ‘understood as finding, with experience defined purely on the basis of time’ (Walker, 2020). Algorithms understood as instructions, executed over time, take the form of a score performed by an eclectic ensemble of humans and machines. Crawford and Joler (2018) expose the interconnected heap of entities that constitute the backbone of many commercial AI-powered technologies in their comprehensive ‘anatomical map of human labor, data and planetary resources’: socially, politically and historically complex narratives entangled across time and space.
+Figure 1 represents the three stages of metamorphosis when data are passed through a neural network layer: a computation of linear transformations followed by a non-linear transformation. The images have been reproduced from a GIF found in *Colah’s Blog*, a collection of online articles in which Olah (e.g. 2014) approaches the mysteries of deep learning networks from various, though mainly visual perspectives, by devising novel methods. There is an important connection between this, and the world-surface-as-manifold analogy introduced by Goodfellow et al. (2016): the process of learning a representation consists of a set of actions following predetermined mathematical principles. The learning in machine learning ‘has few cognitive or symbolic underpinnings’ and is ‘understood as finding, with experience defined purely on the basis of time’ (Walker, 2020). Algorithms understood as instructions, executed over time, take the form of a score performed by an eclectic ensemble of humans and machines. Crawford and Joler (2018) expose the interconnected heap of entities that constitute the backbone of many commercial AI-powered technologies in their comprehensive ‘anatomical map of human labor, data and planetary resources’: socially, politically and historically complex narratives entangled across time and space.
 
 An approach to deep learning from a narrative theory point of view opens up new avenues for critical inquiry into the globally resonant new media landscape; and the recognition of an emergent culture in which technologies, their users and their uses, have shifted from representationalism to a more direct material engagement with the world (Barad, 2016, p. 49) breaks the fourth wall, dropping us into the very core of epistemological discourse as not only observers but also performers: in the vortex of hyper-personalised feeds and alien operational images, a multitude of social forces are at play. To conclude, I cite a (in my mind) poetic description of worldbuilding in stories.
 
@@ -45,45 +46,76 @@ An approach to deep learning from a narrative theory point of view opens up new 
 
 ### References
 
-Adorno, T. (1994). The Stars Down to Earth. Routledge. (Original work published 1957)
+Adorno, T. (1994). *The Stars Down to Earth*. Routledge. (Original work published 1957)
 
-Barad, K. (2007). Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning. Duke University Press.
+Barad, K. (2007). *Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning*. Duke University Press.
 
 Bengio, Y., Courville, A., & Vincent, P. (2014). Representation Learning: A Review and New Perspectives. Retrieved from https://arxiv.org/abs/1206.5538
-Bengio, Y. (2019). From System 1 Deep Learning to System 2 Deep Learning. NeurIPS 2019.
-Berry, D. (2019). Against Infrasomatization: Towards a Critical Theory of Algorithms. In D. Bigo, E. Isin & E. Ruppert (Eds.), Data Politics: Worlds, Subjects, Rights (43–63). Routledge.
-de Bruin, B., & Floridi, L. (2016). The Ethics of Cloud Computing. Science And Engineering Ethics, 23(1), 21–39.
+
+Bengio, Y. (2019). *From System 1 Deep Learning to System 2 Deep Learning*. NeurIPS 2019.
+
+Berry, D. (2019). Against Infrasomatization: Towards a Critical Theory of Algorithms. In D. Bigo, E. Isin & E. Ruppert (Eds.), *Data Politics: Worlds, Subjects, Rights* (43–63). Routledge.
+
+de Bruin, B., & Floridi, L. (2016). The Ethics of Cloud Computing. *Science And Engineering Ethics*, 23(1), 21–39.
+
 Carter, S., Olah, C., & Satyanarayan, A. (Eds.). (2019). Distill. Retrieved 28 December 2019, from https://distill.pub
-Crawford, K., & Joler, V. (2018). Anatomy of an AI System: The Amazon Echo as an Anatomical Map of Human Labor, Data and Planetary Resources. AI Now Institute and Share Lab. Retrieved 20 February 2020, from https://anatomyof.ai
-Crook, S. (1994). Introduction. In Adorno, The Stars Down to Earth. Routledge.
+
+Crawford, K., & Joler, V. (2018). *Anatomy of an AI System: The Amazon Echo as an Anatomical Map of Human Labor, Data and Planetary Resources*. AI Now Institute and Share Lab. Retrieved 20 February 2020, from https://anatomyof.ai
+
+Crook, S. (1994). Introduction. In Adorno, *The Stars Down to Earth*. Routledge.
+
 Deepfake Detection Challenge. (2019). Retrieved 6 January 2020, from https://www.kaggle.com/c/deepfake-detection-challenge
+
 Doshi-Velez, F., & Kim, B. (2017). Towards A Rigorous Science of Interpretable Machine Learning. Retrieved from https://arxiv.org/abs/1702.08608
-Dourish, P. (2017). The Stuff of Bits: An Essay on the Materialities of Information. MIT Press.
-Edwards, P. (2019). Knowledge Infrastructures under Siege: Climate Data as Memory, Truce, and Target. In D. Bigo, E. Isin & E. Ruppert (Eds.), Data Politics: Worlds, Subjects, Rights (21–42). Routledge.
+
+Dourish, P. (2017). *The Stuff of Bits: An Essay on the Materialities of Information*. MIT Press.
+
+Edwards, P. (2019). Knowledge Infrastructures under Siege: Climate Data as Memory, Truce, and Target. In D. Bigo, E. Isin & E. Ruppert (Eds.), *Data Politics: Worlds, Subjects, Rights* (21–42). Routledge.
+
 Epstein, Z., Payne, B., Shen, J., Dubey, A., Felbo, B., & Groh, M. et al. (2018). Closing the AI Knowledge Gap. Retrieved from https://arxiv.org/abs/1803.07233
+
 Evans, R., & Gao, J. (2016). DeepMind AI Reduces Google Data Centre Cooling Bill by 40%. Retrieved 6 January 2020, from https://deepmind.com/blog/article/deepmind-ai-reduces-google-data-centre-cooling-bill-40
-Floridi, L. (2014). The Fourth Revolution: How the Infosphere is Reshaping Human Reality. Oxford University Press.
-Floridi, L. (Ed.). (2015). The Onlife Manifesto: Being Human in a Hyperconnected Era. Springer International Publishing.
-Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
-Hollings, K. (2018). The Space Oracle: A Guide to Your Stars. Strange Attractor Press.
+
+Floridi, L. (2014). *The Fourth Revolution: How the Infosphere is Reshaping Human Reality*. Oxford University Press.
+
+Floridi, L. (Ed.). (2015). *The Onlife Manifesto: Being Human in a Hyperconnected Era*. Springer International Publishing.
+
+Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press.
+
+Hollings, K. (2018). *The Space Oracle: A Guide to Your Stars*. Strange Attractor Press.
+
 Irving, G., & Askell, A. (2019). AI Safety Needs Social Scientists. doi: 10.23915/distill.00014
+
 James, R. (2015). Cloudy Logic. Retrieved 21 December 2019, from https://thenewinquiry.com/cloudy-logic/
+
 Jordan, M. (2018). Artificial Intelligence — The Revolution Hasn’t Happened Yet. Retrieved 30 December 2019, from https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7
+
 Lipton, Z. (2016). The Mythos of Model Interpretability. Retrieved from https://arxiv.org/abs/1606.03490
-Mackenzie, A. (2017). Machine Learners: Archaeology of a Data Practice. MIT Press.
-Mittelstadt, B. D., Allo, P., Taddeo, M., Wachter, S., & Floridi, L. (2016). The ethics of algorithms: Mapping the debate. Big Data & Society, 3(2), 1–21.
+
+Mackenzie, A. (2017). *Machine Learners: Archaeology of a Data Practice*. MIT Press.
+
+Mittelstadt, B. D., Allo, P., Taddeo, M., Wachter, S., & Floridi, L. (2016). The ethics of algorithms: Mapping the debate. *Big Data & Society*, 3(2), 1–21.
+
 Olah, C. (2014). Neural Networks, Manifolds, and Topology. Retrieved 21 December 2019, from https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/
+
 Olah, C., Satyanarayan, A., Johnson, I., Carter, S., Schubert, L., Ye, K., & Mordvintsev, A. (2018). The Building Blocks of Interpretability. doi: 10.23915/distill.00010
-Paglen, T. (2014). Operational Images. E-Flux Journal, 59.
-Ramos, G., Suh, J., Ghorashi, S., Meek, C., Banks, R., & Amershi, S. et al. (2019). Emerging Perspectives in Human-Centered Machine Learning. In CHI EA ’19: Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems (pp. 1–8).
-Russell, S. (2019). Human Compatible: AI and the Problem of Control. Allen Lane.
-Sculley, D., Holt, G., Golovin, D., Davydov, E., Phillips, T., & Ebner, D. et al. (2019). Hidden technical debt in Machine learning systems. In NIPS’15: Proceedings of the 28th International Conference on Neural Information Processing Systems (pp. 2503–2511).
-Steyerl, H. (2016). A Sea of Data: Apophenia and Pattern (Mis-)Recognition. E-Flux Journal, 72.
+
+Paglen, T. (2014). Operational Images. *E-Flux Journal*, 59.
+
+Ramos, G., Suh, J., Ghorashi, S., Meek, C., Banks, R., & Amershi, S. et al. (2019). Emerging Perspectives in Human-Centered Machine Learning. In *CHI EA ’19: Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems* (pp. 1–8).
+
+Russell, S. (2019). *Human Compatible: AI and the Problem of Control*. Allen Lane.
+
+Sculley, D., Holt, G., Golovin, D., Davydov, E., Phillips, T., & Ebner, D. et al. (2019). Hidden technical debt in Machine learning systems. In *NIPS’15: Proceedings of the 28th International Conference on Neural Information Processing Systems* (pp. 2503–2511).
+
+Steyerl, H. (2016). A Sea of Data: Apophenia and Pattern (Mis-)Recognition. *E-Flux Journal*, 72.
+
 Szegedy, C., Zaremba, W., Sutskever, I., Bruna, J., Erhan, D., Goodfellow, I., & Fergus, R. (2013). Intriguing properties of neural networks. Retrieved from https://arxiv.org/abs/1312.6199
-Vinyals, O., Babuschkin, I., Czarnecki, W., Mathieu, M., Dudzik, A., & Chung, J. et al. (2019). Grandmaster level in StarCraft II using multi-agent reinforcement learning. Nature, 575, 350–354.
+
+Vinyals, O., Babuschkin, I., Czarnecki, W., Mathieu, M., Dudzik, A., & Chung, J. et al. (2019). Grandmaster level in StarCraft II using multi-agent reinforcement learning. *Nature*, 575, 350–354.
+
 Walker, K. (2020). Learning from Machines: Conversations with Artists about Machine Learning. Retrieved 18 February 2020, from https://medium.com/@Kevin7_62820/learning-from-machines-conversations-with-artists-about-machine-learning-7db6b34d038c
 
 ###### I have to say: I have only recently begun my adventures in the field of deep learning, so please get in touch should you notice something factually inaccurate, if you have differing views on the subject, or otherwise wish to chat.
 
 ###### URL to article: https://medium.com/@erik.lintunen/elusive-deep-learning-5cd209a1c278
-
