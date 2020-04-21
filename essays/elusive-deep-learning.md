@@ -1,6 +1,6 @@
 ![Neural GIF](../media/neural.gif)
 
-# Elusive Deep Learning: A Narrative Approach
+# ELUSIVE DEEP LEARNING: A Narrative Approach
 
 ### Manifolds and Topology
 
@@ -115,6 +115,8 @@ Vinyals, O., Babuschkin, I., Czarnecki, W., Mathieu, M., Dudzik, A., & Chung, J.
 
 Walker, K. (2020). Learning from Machines: Conversations with Artists about Machine Learning. Retrieved 18 February 2020, from https://medium.com/@Kevin7_62820/learning-from-machines-conversations-with-artists-about-machine-learning-7db6b34d038c
 
-###### *I have to say: I have only recently begun my adventures in the field of deep learning, so please get in touch should you notice something factually inaccurate, if you have differing views on the subject, or otherwise wish to chat.*
+### Notes
 
-###### *URL to article: https://medium.com/@erik.lintunen/elusive-deep-learning-5cd209a1c278*
+*I have to say that I've only recently begun my adventures in the field of deep learning, so please get in touch should you notice something factually inaccurate, have differing views on the subject, or otherwise wish to chat.*
+
+*URL to article: https://medium.com/@erik.lintunen/elusive-deep-learning-5cd209a1c278*
