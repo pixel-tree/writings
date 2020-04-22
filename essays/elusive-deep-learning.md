@@ -1,6 +1,6 @@
 ![Neural GIF](../media/neural.gif)
 
-# ELUSIVE DEEP LEARNING: A Narrative Approach
+# Elusive Deep Learning: A Narrative Approach
 
 ### Manifolds and Topology
 
