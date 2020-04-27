@@ -4,7 +4,7 @@
 
 The view was utterly hypnotising, and I began to draw imaginary connections between each glaring ball of gas in the sky, the light emitting a narrative for the rest of the universe to read: complex histories interwoven; the past and the present compressed into a 2D tapestry, broadcast as a nebulous glow, a heap of meaningless noise.
 
-'I have no knowledge of astrology,' I murmured to myself, but noticed in the periphery of my eye an uncanny constellation emerging.
+'I have no knowledge of astronomy,' I murmured to myself, but noticed in the periphery of my eye an uncanny constellation emerging.
 
 I awoke to a sensation of sand dripping down my face; and discovered myself half asleep before a computer screen. A glance outside, through the lonely studio window, was telling of night-time: few apartments displayed any evidence of life in the block facing mine. I prepared myself some coffee, and thereafter devoted my full attention to the task at hand: swiftly, I was swallowed into bit space, and my consciousness descended into a dense philosophical fog.
 
