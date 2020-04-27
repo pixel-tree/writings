@@ -1,8 +1,8 @@
 ### 040220: Does a vision materialise when dreamed?
 
-‘You’re taking away the poetry from my world, man,’ I thought, as I listened intently to the passionate gentleman standing before me.
+'You’re taking away the poetry from my world, man,' I thought, as I listened intently to the passionate gentleman standing before me.
 
-I drew to pass the time (and to distract myself from thinking about you): an abstract city of information; two androgynous figures overlooking the monotonous plane. ‘Look around,’ they say. ‘The patterns are vague here.’ And true they were. The horizon was populated by a vast sea of noise.
+I drew to pass the time (and to distract myself from thinking about you): an abstract city of information; two androgynous figures overlooking the monotonous plane. 'Look around,' they say. 'The patterns are vague here.' And true they were. The horizon was populated by a vast sea of noise.
 
 All beings and things around me faded, and I sunk deep into my chair held gently against the hard plastic not only by the ever-penetrating force of gravity but also an ineffable energy (of love?): I lost myself to thought, losing track of the day, of position, and of all earthly concepts; a fluffy cloud of nothingness surrounded me as I lost all phenomenal presence. I was stripped down and smitten by my memories. WHACK.
 
