@@ -1,6 +1,6 @@
 ### 140520: The expressive power of the (digital) line
 
-Tim Ingold guest lecture. The talk was intensely inspiring throughout, but one thing really stuck in my mind: 'the expressive power of the line,' by which he refers to the superiority of handwriting as opposed to typing (in terms of the connection to letters and symbols that are being produced). <i>Superiority</i> might be the wrong word to represent what he said as it may wrongly evoke an impression of aggression: he simply stated his preference and pointed out its (also IMO undervalued) importance in writing and in thinking through words.
+Tim Ingold guest lecture. The talk was intensely inspiring throughout, but one thing really stuck in my mind: 'the expressive power of the line,' by which he refers to the superiority of handwriting as opposed to typing (in terms of the connection to letters and symbols that are being produced). *Superiority* might be the wrong word to represent what he said as it may wrongly evoke an impression of aggression: he simply stated his preference and pointed out its (also IMO undervalued) importance in writing and in thinking through words.
 
 I found myself to be having extremely mixed feelings about this. On the one hand, it is a revelation to me and an enlightening point of view as I have never considered it in this way. Writing by hand certainly feels multidimensional in its expressive capacity compared to tapping on keys; but on the other hand, his dismissiveness about the potential of the digital line (i.e. typing) was slightly heartbreaking.
 
