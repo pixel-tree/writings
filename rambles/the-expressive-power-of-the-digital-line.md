@@ -1,0 +1,10 @@
+### 140520: The expressive power of the (digital) line
+
+These thoughts emerged as resonances of a guest lecture from Tim Ingold. The talk was intensely inspiring throughout, but one thing really stuck in my mind: 'the expressive power of the line,' by which he refers to the superiority of handwriting as opposed to typing (in terms of being connected to the characters and symbols that are produced). <i>Superiority</i> might be the wrong representation for his words here as it might wrongly evoke an impression of aggression: he simply stated his preference and pointed out its (also IMO undervalued) importance in writing and in thinking through words.
+
+I found myself to be having extremely mixed feelings about this. On the one hand, it is a revelation to me and an enlightening point of view as I have never considered it in this way. Handwriting certainly feels like something capable of providing an additional dimension to the practice of crafting words; but on the other hand, his dismissiveness about the power of the digital line (i.e. typing) was slightly heartbreaking.
+
+As someone who has grown up with computers as my dear companions (and as someone who equally shares a profound love for the written word), I identify a certain poetry, rhythm and fluidity to typing that is very different from the experience of putting pen to paper. It has its own dynamics according to which words are crafted: instead of unique hand movements for each character distinguishable patterns are produced using the QWERTY layout; similarly, there exist dedicated movements of the hand to format text, for punctuation, etc.; and the sounds that emerge from my keyboard tell me things about the flow of my writing. There certainly is a craft to the digital line too.
+
+This feels like a matter of preference and habit. In my experience, typing is a whole separate world from handwriting that also includes additional expressional dimensionality to it, if only one is open and curious to explore its possibilities.
+
